@@ -1,9 +1,6 @@
-module Main (main) where
-
-module Main (main) where
-
 {-# LANGUAGE LambdaCase #-}
 
+module Main (main) where
 
 import Data.Bool (bool)
 import Data.Char
